@@ -1,0 +1,21 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50;
+    margin-right: 50;
+    background-color: darkseagreen;
+}
+
+.titulo{
+       padding-left: 15%;
+       padding-right: 15%;
+       background-color: rgba(30, 0, 133, 0.507);
+       color: darkseagreen;
+}
+
+.conteudo{
+        background-color: white;
+        h4{
+            color: darkseagreen;
+        }
+}
